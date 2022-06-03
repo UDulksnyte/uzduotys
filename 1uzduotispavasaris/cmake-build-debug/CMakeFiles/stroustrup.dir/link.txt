@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\stroustrup.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~2.2\bin\mingw\bin\ar.exe qc CMakeFiles\stroustrup.dir/objects.a @CMakeFiles\stroustrup.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~2.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\stroustrup.dir/objects.a -Wl,--no-whole-archive -o stroustrup.exe -Wl,--out-implib,libstroustrup.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\stroustrup.dir\linklibs.rsp
