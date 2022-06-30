@@ -1,0 +1,3 @@
+C:/Users/37067/Downloads/uzduotys-main/1uzduotisalgoritmai/cmake-build-debug/CMakeFiles/stroustrup.dir
+C:/Users/37067/Downloads/uzduotys-main/1uzduotisalgoritmai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/37067/Downloads/uzduotys-main/1uzduotisalgoritmai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
